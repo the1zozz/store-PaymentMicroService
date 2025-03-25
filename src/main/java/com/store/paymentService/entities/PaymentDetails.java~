@@ -1,0 +1,5 @@
+package com.store.paymentService.entities;
+
+public class PaymentDetails {
+    
+}

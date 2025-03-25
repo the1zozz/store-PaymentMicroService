@@ -1,0 +1,8 @@
+package com.store.paymentService.models;
+
+public class PaymentRequest {
+    private Long orderId ;
+    private long amount ;
+    private String referenceNum ;
+    private PaymentMode paymentMode ;
+}
